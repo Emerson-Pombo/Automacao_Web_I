@@ -1,0 +1,8 @@
+{
+  "name": "automacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Emerson-Pombo/Automacao_Web_I.git",
+  "author": "Emerson Pombo <emersonpombo5@gmail.com>",
+  "license": "MIT"
+}
